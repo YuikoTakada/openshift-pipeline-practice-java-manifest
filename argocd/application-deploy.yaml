@@ -5,7 +5,7 @@ items:
   metadata:
     name: argocd-test-secret
   stringData:
-    database-password: password
+    database-password: password2
     database-user: test
 - apiVersion: v1
   kind: Secret
